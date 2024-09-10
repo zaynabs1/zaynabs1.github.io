@@ -74,7 +74,7 @@ h2{
 }
 
 body > footer{
-    background-color: orange; 
+    background-color:black; 
     display: flex;
 }
  
@@ -95,7 +95,7 @@ img{
 
 #footer-ul > div > li > a{
     text-decoration: none;
-    color:black;
+    color:white;
     
 
 }
