@@ -62,6 +62,7 @@ body > main article {
 
 #main-content >div {
     width: 70%;
+    margin: auto;
 
 }
 
