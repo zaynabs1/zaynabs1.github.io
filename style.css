@@ -94,7 +94,9 @@ img{
     
 }
 
-#footer-ul > div > li > a {
-    color:black;
+#footer-ul > div > li > a{
     text-decoration: none;
+    color:black
+    
+
 }
