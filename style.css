@@ -4,6 +4,13 @@ body {
     margin: 0px;
     font-size: 1.5vw;
 }
+
+header {
+    background-image: https://images.pexels.com/photos/158756/flowers-plants-korea-nature-158756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1;
+    background-size::backdrop
+    background-position:centre;
+}
+
 #logo {
     margin: 0px;
     padding: 8px;
