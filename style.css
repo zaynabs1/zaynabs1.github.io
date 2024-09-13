@@ -50,8 +50,9 @@ body > header > nav > ul{
 }
 
 body > main article {
-    width: 70%;
+    width: 80%;
     margin: auto;
+    text-align: center;
 }
 
 #main-content {
