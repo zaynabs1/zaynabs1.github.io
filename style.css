@@ -49,7 +49,7 @@ body > header > nav > ul{
 
 }
 
-body > main article {
+body > main > article {
     width: 80%;
     margin: auto;
     text-align: center;
