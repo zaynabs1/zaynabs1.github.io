@@ -5,6 +5,12 @@ body {
     font-size: 1.5vw;
 }
 
+main{
+    width: 60px;
+    margin: auto;
+    text-align: center;
+}
+
 #logo {
     margin: 0px;
     padding: 8px;
