@@ -44,7 +44,7 @@ body > header > nav > ul{
     color: white;
     text-decoration: none; 
     padding: 12px;
-    border: 1px; solidwhite;
+    border: 1px solid white;
     border-radius: 10%; 
 
 }
