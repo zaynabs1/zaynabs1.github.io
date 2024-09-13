@@ -2,6 +2,7 @@ body {
     font-family: Helvetica, Arial, sans-serif;
     margin: 0px;
     font-size: 1.5vw;
+    color:#edc8fe
 }
 
 #logo {
@@ -44,8 +45,7 @@ body > header > nav > ul{
     text-decoration: none; 
     padding: 12px;
     border: 1px; solidwhite;
-    border-radius: 10%;
- 
+    border-radius: 10%; 
 
 }
 
