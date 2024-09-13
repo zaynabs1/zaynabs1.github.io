@@ -49,10 +49,9 @@ body > header > nav > ul{
 
 }
 
-body > main > article {
+body > main article {
     width: 70%;
     margin: auto;
-    display: block;
 }
 
 #main-content {
@@ -62,7 +61,6 @@ body > main > article {
 
 #main-content >div {
 width: 70%;
-margin: auto;
 }
 
 #main-content aside {
