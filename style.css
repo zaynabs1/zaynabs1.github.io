@@ -1,14 +1,13 @@
 body {
+    background-image:url(https://images.pexels.com/photos/262713/pexels-photo-262713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    min-height: 100vh;
     background-color:white;
     font-family: Helvetica, Arial, sans-serif;
     margin: 0px;
     font-size: 1.5vw;
-}
-
-header {
-    background-image: https://images.pexels.com/photos/158756/flowers-plants-korea-nature-158756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1;
-    background-size::backdrop
-    background-position:centre;
 }
 
 #logo {
